@@ -1,0 +1,50 @@
+id,lesson,jlpt,category,hiragana,kanji,romaji,vietnamese,english,example_jp,example_vi,emoji,image
+L10-001,10,N5,basic,あります,,arimasu,"Có, ở (tồn tại đồ vật)",there is/are (objects),はこがあります。,Có cái hộp.,📦,../../assets/images/lesson10/L10-001.svg
+L10-002,10,N5,basic,います,,imasu,"Có, ở (tồn tại người và động vật)",there is/are (people/animals),いぬがいます。,Có con chó.,👪,../../assets/images/lesson10/L10-002.svg
+L10-003,10,N5,people,いろいろ[な],色々,iroiro na,"Nhiều, đa dạng",various,いろいろなものがあります。,Có nhiều đồ vật.,🌈,../../assets/images/lesson10/L10-003.svg
+L10-004,10,N5,people,おとこのひと,男の人,otoko no hito,Người đàn ông,man,おとこのひとがいます。,Có người đàn ông.,👨,../../assets/images/lesson10/L10-004.svg
+L10-005,10,N5,people,おんなのひと,女の人,onna no hito,"Người đàn bà, phụ nữ",woman,おんなのひとがいます。,Có người phụ nữ.,👩,../../assets/images/lesson10/L10-005.svg
+L10-006,10,N5,people,おとこのこ,男の子,otoko no ko,"Cậu con trai, cậu bé",boy,おとこのこがいます。,Có cậu bé.,👦,../../assets/images/lesson10/L10-006.svg
+L10-007,10,N5,people,おんなのこ,女の子,onna no ko,"Cô con gái, cô bé",girl,おんなのこがいます。,Có cô bé.,👧,../../assets/images/lesson10/L10-007.svg
+L10-008,10,N5,animal,いぬ,犬,inu,Chó,dog,いぬがいます。,Có con chó.,🐶,../../assets/images/lesson10/L10-008.svg
+L10-009,10,N5,animal,ねこ,猫,neko,Mèo,cat,ねこがいます。,Có con mèo.,🐱,../../assets/images/lesson10/L10-009.svg
+L10-010,10,N5,animal,パンダ,,panda,Gấu trúc,panda,パンダがいます。,Có gấu trúc.,🐼,../../assets/images/lesson10/L10-010.svg
+L10-011,10,N5,animal,ぞう,象,zou,Voi,elephant,ぞうがいます。,Có con voi.,🐘,../../assets/images/lesson10/L10-011.svg
+L10-012,10,N5,object,き,木,ki,"Cây, gỗ",tree/wood,きがあります。,Có cái cây.,🌳,../../assets/images/lesson10/L10-012.svg
+L10-013,10,N5,object,もの,物,mono,"Vật, đồ vật",thing,いろいろなものがあります。,Có nhiều đồ vật.,🧸,../../assets/images/lesson10/L10-013.svg
+L10-014,10,N5,object,でんち,電池,denchi,Pin,battery,でんちがあります。,Có cục pin.,🔋,../../assets/images/lesson10/L10-014.svg
+L10-015,10,N5,object,はこ,箱,hako,Hộp,box,はこがあります。,Có cái hộp.,📦,../../assets/images/lesson10/L10-015.svg
+L10-016,10,N5,object,スイッチ,,suicchi,Công tắc,switch,スイッチがあります。,Có công tắc.,🔘,../../assets/images/lesson10/L10-016.svg
+L10-017,10,N5,object,れいぞうこ,冷蔵庫,reizouko,Tủ lạnh,refrigerator,れいぞうこがあります。,Có tủ lạnh.,🧊,../../assets/images/lesson10/L10-017.svg
+L10-018,10,N5,object,テーブル,,teeburu,Bàn,table,テーブルがあります。,Có cái bàn.,🪑,../../assets/images/lesson10/L10-018.svg
+L10-019,10,N5,object,ベッド,,beddo,Giường,bed,ベッドがあります。,Có cái giường.,🛏️,../../assets/images/lesson10/L10-019.svg
+L10-020,10,N5,object,たな,棚,tana,Giá kệ,shelf,たながあります。,Có cái kệ.,📚,../../assets/images/lesson10/L10-020.svg
+L10-021,10,N5,object,ドア,,doa,Cửa,door,ドアがあります。,Có cái cửa.,🚪,../../assets/images/lesson10/L10-021.svg
+L10-022,10,N5,object,まど,窓,mado,Cửa sổ,window,まどがあります。,Có cửa sổ.,🪟,../../assets/images/lesson10/L10-022.svg
+L10-023,10,N5,object,ポスト,,posuto,"Hộp thư, hòm thư",postbox/mailbox,ポストがあります。,Có hòm thư.,📮,../../assets/images/lesson10/L10-023.svg
+L10-024,10,N5,object,ビル,,biru,Tòa nhà,building,ビルがあります。,Có tòa nhà.,🏢,../../assets/images/lesson10/L10-024.svg
+L10-025,10,N5,place,ATM,,ATM,Máy rút tiền tự động,ATM,ATMがあります。,Có máy ATM.,🏧,../../assets/images/lesson10/L10-025.svg
+L10-026,10,N5,place,コンビニ,,konbini,Cửa hàng tiện lợi,convenience store,コンビニがあります。,Có cửa hàng tiện lợi.,🏪,../../assets/images/lesson10/L10-026.svg
+L10-027,10,N5,place,こうえん,公園,kouen,Công viên,park,こうえんがあります。,Có công viên.,🏞️,../../assets/images/lesson10/L10-027.svg
+L10-028,10,N5,place,きっさてん,喫茶店,kissaten,"Quán giải khát, quán cafe",coffee shop,きっさてんがあります。,Có quán cafe.,☕,../../assets/images/lesson10/L10-028.svg
+L10-029,10,N5,place,〜や,〜屋,ya,"Hiệu ~, cửa hàng ~",shop/store,パンやがあります。,Có tiệm bánh mì.,🏬,../../assets/images/lesson10/L10-029.svg
+L10-030,10,N5,place,のりば,乗り場,noriba,"Bến xe, điểm lên xuống xe",bus stop/platform,バスのりばがあります。,Có bến xe buýt.,🚏,../../assets/images/lesson10/L10-030.svg
+L10-031,10,N5,place,けん,県,ken,Tỉnh,prefecture,やまなしけんです。,Là tỉnh Yamanashi.,🗾,../../assets/images/lesson10/L10-031.svg
+L10-032,10,N5,position,うえ,上,ue,Trên,on/above,はこのうえにあります。,Ở trên cái hộp.,⬆️,../../assets/images/lesson10/L10-032.svg
+L10-033,10,N5,position,した,下,shita,Dưới,under/below,ベッドのしたにあります。,Ở dưới giường.,⬇️,../../assets/images/lesson10/L10-033.svg
+L10-034,10,N5,position,まえ,前,mae,Trước,front/before,えきのまえにあります。,Ở trước nhà ga.,↗️,../../assets/images/lesson10/L10-034.svg
+L10-035,10,N5,position,うしろ,後ろ,ushiro,Sau,behind,ビルのうしろにあります。,Ở sau tòa nhà.,↩️,../../assets/images/lesson10/L10-035.svg
+L10-036,10,N5,position,みぎ,右,migi,Phải,right,みぎにあります。,Ở bên phải.,➡️,../../assets/images/lesson10/L10-036.svg
+L10-037,10,N5,position,ひだり,左,hidari,Trái,left,ひだりにあります。,Ở bên trái.,⬅️,../../assets/images/lesson10/L10-037.svg
+L10-038,10,N5,position,なか,中,naka,"Trong, giữa",inside/middle,はこのなかにあります。,Ở trong cái hộp.,📥,../../assets/images/lesson10/L10-038.svg
+L10-039,10,N5,position,そと,外,soto,Ngoài,outside,はこのそとにあります。,Ở ngoài cái hộp.,📤,../../assets/images/lesson10/L10-039.svg
+L10-040,10,N5,position,となり,隣,tonari,Bên cạnh,next to,コンビニのとなりにあります。,Ở bên cạnh cửa hàng tiện lợi.,🏘️,../../assets/images/lesson10/L10-040.svg
+L10-041,10,N5,position,ちかく,近く,chikaku,Gần,near,えきのちかくにあります。,Ở gần nhà ga.,📍,../../assets/images/lesson10/L10-041.svg
+L10-042,10,N5,position,あいだ,間,aida,Giữa,between,ビルとコンビニのあいだにあります。,Ở giữa tòa nhà và cửa hàng tiện lợi.,↔️,../../assets/images/lesson10/L10-042.svg
+L10-043,10,N5,connector,〜や〜[など],,ya nado,"Và ~, v.v.","and, etc.",つくえのうえにほんやペンなどがあります。,"Trên bàn có sách, bút, v.v.",📚,../../assets/images/lesson10/L10-043.svg
+L10-044,10,N5,conversation,[どうも]すみません。,,doumo sumimasen,Cảm ơn / Xin lỗi,thank you / excuse me,どうもすみません。,Cảm ơn rất nhiều / Xin lỗi.,🙇,../../assets/images/lesson10/L10-044.svg
+L10-045,10,N5,other,ナンプラー,,nanpuraa,Tên một đồ chấm của Thái Lan,fish sauce,ナンプラーがあります。,Có nước mắm Thái.,🍶,../../assets/images/lesson10/L10-045.svg
+L10-046,10,N5,other,コーナー,,koonaa,Góc,corner,コーナーにあります。,Ở góc.,📐,../../assets/images/lesson10/L10-046.svg
+L10-047,10,N5,position,いちばん した,一番下,ichiban shita,"Thấp nhất, phía dưới cùng",bottommost,いちばんしたにあります。,Ở phía dưới cùng.,🔽,../../assets/images/lesson10/L10-047.svg
+L10-048,10,N5,place,とうきょうディズニーランド,東京ディズニーランド,toukyou dizuniirando,Công viên Tokyo Disneyland,Tokyo Disneyland,とうきょうディズニーランドがあります。,Có công viên Tokyo Disneyland.,🏰,../../assets/images/lesson10/L10-048.svg
+L10-049,10,N5,place,アジアストア,,ajia sutoa,Tên một siêu thị (giả tưởng),Asia Store,アジアストアがあります。,Có Asia Store.,🛒,../../assets/images/lesson10/L10-049.svg
