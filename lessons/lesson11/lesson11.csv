@@ -1,0 +1,62 @@
+id,lesson,hiragana,kanji,vietnamese,category,icon,example_jp,example_vi
+l11_001,11,います [こどもが～],子供が～,Có [con],verbs,👶,子供がいます。,Có con.
+l11_002,11,います [にほんに～],日本に～,Ở [Nhật],verbs,🇯🇵,日本にいます。,Ở Nhật.
+l11_003,11,かかります,,"Mất, tốn (thời gian, tiền)",verbs,⏱️,一時間かかります。,Mất một tiếng.
+l11_004,11,やすみます,休みます,Nghỉ (làm),verbs,🏖️,会社を休みます。,Nghỉ làm ở công ty.
+l11_005,11,ひとつ,1つ,Một cái,counters,1️⃣,りんごを一つください。,Cho tôi một quả táo.
+l11_006,11,ふたつ,2つ,Hai cái,counters,2️⃣,みかんを二つください。,Cho tôi hai quả quýt.
+l11_007,11,みっつ,3つ,Ba cái,counters,3️⃣,三つあります。,Có ba cái.
+l11_008,11,よっつ,4つ,Bốn cái,counters,4️⃣,四つあります。,Có bốn cái.
+l11_009,11,いつつ,5つ,Năm cái,counters,5️⃣,五つあります。,Có năm cái.
+l11_010,11,むっつ,6つ,Sáu cái,counters,6️⃣,六つあります。,Có sáu cái.
+l11_011,11,ななつ,7つ,Bảy cái,counters,7️⃣,七つあります。,Có bảy cái.
+l11_012,11,やっつ,8つ,Tám cái,counters,8️⃣,八つあります。,Có tám cái.
+l11_013,11,ここのつ,9つ,Chín cái,counters,9️⃣,九つあります。,Có chín cái.
+l11_014,11,とお,10,Mười cái,counters,🔟,十あります。,Có mười cái.
+l11_015,11,いくつ,,"Mấy cái, bao nhiêu cái",question,❓,いくつありますか。,Có bao nhiêu cái?
+l11_016,11,ひとり,1人,Một người,people_count,🧍,一人います。,Có một người.
+l11_017,11,ふたり,2人,Hai người,people_count,🧍‍♂️🧍,二人います。,Có hai người.
+l11_018,11,ーにん,ー人,~ người,people_count,👥,三人います。,Có ba người.
+l11_019,11,ーだい,ー台,"~ cái (máy móc, xe)",counter_units,🚗,車が一台あります。,Có một chiếc xe.
+l11_020,11,ーまい,ー枚,"~ tờ, tấm",counter_units,📄,切手を一枚ください。,Cho tôi một con tem.
+l11_021,11,ーかい,ー回,~ lần,counter_units,🔁,一回見ます。,Xem một lần.
+l11_022,11,りんご,,Táo,food,🍎,りんごを一つ食べます。,Ăn một quả táo.
+l11_023,11,みかん,,Quýt,food,🍊,みかんを二つ買います。,Mua hai quả quýt.
+l11_024,11,サンドイッチ,,Bánh sandwich,food,🥪,サンドイッチを食べます。,Ăn bánh sandwich.
+l11_025,11,カレー[ライス],,Cơm cà ri,food,🍛,カレーを食べます。,Ăn cơm cà ri.
+l11_026,11,アイスクリーム,,Kem,food,🍦,アイスクリームを食べます。,Ăn kem.
+l11_027,11,きって,切手,Tem,items,🏷️,切手を一枚ください。,Cho tôi một con tem.
+l11_028,11,はがき,,Bưu thiếp,items,📮,はがきを書きます。,Viết bưu thiếp.
+l11_029,11,ふうとう,封筒,Phong bì,items,✉️,封筒があります。,Có phong bì.
+l11_030,11,りょうしん,両親,Bố mẹ,family,👨‍👩‍👧,両親は日本にいます。,Bố mẹ ở Nhật.
+l11_031,11,きょうだい,兄弟,Anh chị em,family,👨‍👩‍👧‍👦,兄弟がいます。,Có anh chị em.
+l11_032,11,あに,兄,Anh trai (mình),family,👨,兄がいます。,Tôi có anh trai.
+l11_033,11,おにいさん,お兄さん,Anh trai (người khác),family,👨,お兄さんは日本にいますか。,Anh trai bạn ở Nhật không?
+l11_034,11,あね,姉,Chị gái (mình),family,👩,姉がいます。,Tôi có chị gái.
+l11_035,11,おねえさん,お姉さん,Chị gái (người khác),family,👩,お姉さんは会社員です。,Chị gái bạn là nhân viên công ty.
+l11_036,11,おとうと,弟,Em trai (mình),family,👦,弟がいます。,Tôi có em trai.
+l11_037,11,おとうとさん,弟さん,Em trai (người khác),family,👦,弟さんは学生ですか。,Em trai bạn là học sinh à?
+l11_038,11,いもうと,妹,Em gái (mình),family,👧,妹がいます。,Tôi có em gái.
+l11_039,11,いもうとさん,妹さん,Em gái (người khác),family,👧,妹さんは何歳ですか。,Em gái bạn mấy tuổi?
+l11_040,11,がいこく,外国,Nước ngoài,places,🌏,外国へ行きます。,Đi nước ngoài.
+l11_041,11,りゅうがくせい,留学生,Du học sinh,people,🎓,留学生です。,Là du học sinh.
+l11_042,11,クラス,,Lớp học,school,🏫,クラスに学生がいます。,Có học sinh trong lớp.
+l11_043,11,いちじかん,一時間,Một tiếng,time,🕐,一時間かかります。,Mất một tiếng.
+l11_044,11,いっしゅうかん,一週間,Một tuần,time,📅,一週間休みます。,Nghỉ một tuần.
+l11_045,11,いっかげつ,一か月,Một tháng,time,🗓️,一か月かかります。,Mất một tháng.
+l11_046,11,いちねん,一年,Một năm,time,📆,一年かかります。,Mất một năm.
+l11_047,11,～ぐらい,,Khoảng ~,time,≈,一時間ぐらいかかります。,Mất khoảng một tiếng.
+l11_048,11,どのくらい,,Bao lâu,question,⏳,どのくらいかかりますか。,Mất bao lâu?
+l11_049,11,ぜんぶで,全部で,Tổng cộng,quantity,🧮,全部でいくらですか。,Tổng cộng bao nhiêu tiền?
+l11_050,11,みんな,,"Tất cả, mọi người",quantity,👥,みんなで行きます。,Tất cả cùng đi.
+l11_051,11,～だけ,,Chỉ ~,quantity,☝️,一つだけください。,Cho tôi chỉ một cái.
+l11_052,11,かしこまりました。,,Tôi hiểu rồi ạ,conversation,🙇,かしこまりました。,Tôi hiểu rồi ạ.
+l11_053,11,いい[お]てんきですね,いい[お]天気ですね,Trời đẹp nhỉ,conversation,☀️,いいお天気ですね。,Trời đẹp nhỉ.
+l11_054,11,おでかけですか,お出かけですか,Anh/chị đi ra ngoài đấy à?,conversation,🚶,お出かけですか。,Anh/chị đi ra ngoài à?
+l11_055,11,ちょっと～まで。,,Tôi đi ~ một chút,conversation,🚶‍♂️,ちょっとコンビニまで。,Tôi đi combini một chút.
+l11_056,11,いってらっしゃい。,行ってらっしゃい。,Anh/chị đi nhé,conversation,👋,いってらっしゃい。,Đi nhé.
+l11_057,11,いってきます。,行ってきます。,Tôi đi đây,conversation,👋,いってきます。,Tôi đi đây.
+l11_058,11,ふなびん,船便,Gửi bằng đường biển,shipping,🚢,船便でお願いします。,Gửi bằng đường biển.
+l11_059,11,こうくうびん,航空便,Gửi bằng đường hàng không,shipping,✈️,航空便でお願いします。,Gửi bằng đường hàng không.
+l11_060,11,おねがいします,お願いします,Làm ơn,conversation,🙏,お願いします。,Làm ơn.
+l11_061,11,オーストラリア,,Úc,places,🇦🇺,オーストラリアへ行きます。,Đi Úc.

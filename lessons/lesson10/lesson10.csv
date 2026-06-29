@@ -1,0 +1,50 @@
+id,lesson,hiragana,kanji,vietnamese,category,icon,example_jp,example_vi
+l10_001,10,あります,,"Có, ở (đồ vật)",grammar,📦,あります。,Có.
+l10_002,10,います,,"Có, ở (người/động vật)",grammar,👤,います。,Có.
+l10_003,10,いろいろ[な],色々,"Nhiều, đa dạng",adjective,🌈,いろいろなものがあります。,Có nhiều đồ vật.
+l10_004,10,おとこのひと,男の人,Người đàn ông,people,👨,男の人がいます。,Có người đàn ông.
+l10_005,10,おんなのひと,女の人,Người đàn bà,people,👩,女の人がいます。,Có người đàn bà.
+l10_006,10,おとこのこ,男の子,Cậu bé,people,👦,男の子がいます。,Có cậu bé.
+l10_007,10,おんなのこ,女の子,Cô bé,people,👧,女の子がいます。,Có cô bé.
+l10_008,10,いぬ,犬,Chó,animals,🐶,犬がいます。,Có con chó.
+l10_009,10,ねこ,猫,Mèo,animals,🐱,猫がいます。,Có con mèo.
+l10_010,10,パンダ,,Gấu trúc,animals,🐼,パンダがいます。,Có gấu trúc.
+l10_011,10,ぞう,象,Voi,animals,🐘,象がいます。,Có con voi.
+l10_012,10,き,木,"Cây, gỗ",objects,🌳,木があります。,Có cái cây.
+l10_013,10,もの,物,"Vật, đồ vật",objects,📦,物があります。,Có đồ vật.
+l10_014,10,でんち,電池,Pin,objects,🔋,電池があります。,Có pin.
+l10_015,10,はこ,箱,Hộp,objects,📦,箱があります。,Có cái hộp.
+l10_016,10,スイッチ,,Công tắc,objects,🔘,スイッチがあります。,Có công tắc.
+l10_017,10,れいぞうこ,冷蔵庫,Tủ lạnh,objects,🧊,冷蔵庫があります。,Có tủ lạnh.
+l10_018,10,テーブル,,Bàn,objects,🪑,テーブルがあります。,Có cái bàn.
+l10_019,10,ベッド,,Giường,objects,🛏️,ベッドがあります。,Có cái giường.
+l10_020,10,たな,棚,Giá kệ,objects,🗄️,棚があります。,Có kệ sách.
+l10_021,10,ドア,,Cửa,objects,🚪,ドアがあります。,Có cái cửa.
+l10_022,10,まど,窓,Cửa sổ,objects,🪟,窓があります。,Có cửa sổ.
+l10_023,10,ポスト,,Hộp thư,objects,📮,ポストがあります。,Có hộp thư.
+l10_024,10,ビル,,Tòa nhà,places,🏢,ビルがあります。,Có tòa nhà.
+l10_025,10,ATM,,Máy ATM,places,🏧,ATMがあります。,Có máy ATM.
+l10_026,10,コンビニ,,Cửa hàng tiện lợi,places,🏪,コンビニがあります。,Có combini.
+l10_027,10,こうえん,公園,Công viên,places,🏞️,公園があります。,Có công viên.
+l10_028,10,きっさてん,喫茶店,Quán cafe,places,☕,喫茶店があります。,Có quán cafe.
+l10_029,10,～や,～屋,"Hiệu ~, cửa hàng ~",places,🏬,パン屋があります。,Có tiệm bánh.
+l10_030,10,のりば,乗り場,"Bến xe, điểm lên xuống xe",places,🚌,バスの乗り場はどこですか。,Bến xe buýt ở đâu?
+l10_031,10,けん,県,Tỉnh,places,🗾,山梨県にいます。,Tôi ở tỉnh Yamanashi.
+l10_032,10,うえ,上,Trên,position,⬆️,箱の上にあります。,Ở trên hộp.
+l10_033,10,した,下,Dưới,position,⬇️,箱の下にあります。,Ở dưới hộp.
+l10_034,10,まえ,前,Trước,position,↗️,駅の前にあります。,Ở trước nhà ga.
+l10_035,10,うしろ,後ろ,Sau,position,↙️,家の後ろにあります。,Ở sau nhà.
+l10_036,10,みぎ,右,Phải,position,➡️,右にあります。,Ở bên phải.
+l10_037,10,ひだり,左,Trái,position,⬅️,左にあります。,Ở bên trái.
+l10_038,10,なか,中,"Trong, giữa",position,📥,箱の中にあります。,Ở trong hộp.
+l10_039,10,そと,外,Ngoài,position,📤,箱の外にあります。,Ở ngoài hộp.
+l10_040,10,となり,隣,Bên cạnh,position,🏘️,家の隣にあります。,Ở bên cạnh nhà.
+l10_041,10,ちかく,近く,Gần,position,📍,駅の近くにあります。,Ở gần nhà ga.
+l10_042,10,あいだ,間,Giữa,position,↔️,本屋と銀行の間にあります。,Ở giữa hiệu sách và ngân hàng.
+l10_043,10,～や～[など],,"Và ~, v.v.",grammar,📚,本やノートがあります。,"Có sách, vở, v.v."
+l10_044,10,[どうも]すみません。,,Cám ơn / Xin lỗi,conversation,🙏,どうもすみません。,Cám ơn.
+l10_045,10,ナンプラー,,Nước mắm Thái,food,🍶,ナンプラーがあります。,Có nước mắm Thái.
+l10_046,10,コーナー,,Góc,places,📐,コーナーにあります。,Ở góc.
+l10_047,10,いちばんした,一番下,"Thấp nhất, phía dưới cùng",position,⏬,一番下にあります。,Ở dưới cùng.
+l10_048,10,とうきょうディズニーランド,東京ディズニーランド,Công viên Tokyo Disneyland,places,🏰,東京ディズニーランドへ行きます。,Đi Tokyo Disneyland.
+l10_049,10,アジアストア,,Tên siêu thị giả tưởng,places,🛒,アジアストアにあります。,Ở Asia Store.
