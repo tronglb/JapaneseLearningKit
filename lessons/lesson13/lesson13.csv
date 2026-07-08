@@ -1,0 +1,34 @@
+id,lesson,hiragana,kanji,vietnamese,category,icon,example_jp,example_vi
+l13_001,13,あそびます,遊びます,Chơi,verbs,🎮,休みに友達と遊びます。,Ngày nghỉ tôi chơi với bạn.
+l13_002,13,およぎます,泳ぎます,Bơi,verbs,🏊,プールで泳ぎます。,Tôi bơi ở hồ bơi.
+l13_003,13,むかえます,迎えます,"Đón, chào đón",verbs,🚗,駅で友達を迎えます。,Tôi đón bạn ở nhà ga.
+l13_004,13,つかれます,疲れます,Mệt,verbs,😮‍💨,今日は疲れました。,Hôm nay tôi mệt rồi.
+l13_005,13,けっこんします,結婚します,Kết hôn,verbs,💍,来年結婚します。,Năm sau tôi kết hôn.
+l13_006,13,かいものします,買い物します,Mua hàng,verbs,🛒,スーパーで買い物します。,Tôi mua hàng ở siêu thị.
+l13_007,13,しょくじします,食事します,"Ăn cơm, dùng bữa",verbs,🍽️,家族と食事します。,Tôi dùng bữa với gia đình.
+l13_008,13,さんぽします,散歩します,Đi dạo,verbs,🚶,公園を散歩します。,Tôi đi dạo ở công viên.
+l13_009,13,たいへん[な],大変[な],"Vất vả, khó khăn",adjective,💦,仕事は大変です。,Công việc vất vả.
+l13_010,13,ほしい,欲しい,Muốn có,adjective,🎁,新しい車が欲しいです。,Tôi muốn có xe mới.
+l13_011,13,ひろい,広い,Rộng,adjective,🏞️,この部屋は広いです。,Phòng này rộng.
+l13_012,13,せまい,狭い,"Chật, hẹp",adjective,📦,この部屋は狭いです。,Phòng này chật.
+l13_013,13,プール,,Bể bơi,places,🏊‍♂️,プールで泳ぎます。,Tôi bơi ở bể bơi.
+l13_014,13,かわ,川,Sông,places,🏞️,川の近くを散歩します。,Tôi đi dạo gần sông.
+l13_015,13,びじゅつ,美術,Mỹ thuật,activities,🎨,美術が好きです。,Tôi thích mỹ thuật.
+l13_016,13,つり,釣り,Câu cá,activities,🎣,日曜日に釣りをします。,Chủ nhật tôi đi câu cá.
+l13_017,13,スキー,,Trượt tuyết,activities,⛷️,冬にスキーをします。,Mùa đông tôi trượt tuyết.
+l13_018,13,しゅうまつ,週末,Cuối tuần,time,📅,週末に買い物します。,Cuối tuần tôi đi mua hàng.
+l13_019,13,[お]しょうがつ,[お]正月,"Năm mới, Tết",time,🎍,お正月に家族と食事します。,Năm mới tôi ăn cơm với gia đình.
+l13_020,13,～ごろ,,Khoảng ~,time,🕒,七時ごろ帰ります。,Khoảng 7 giờ tôi về.
+l13_021,13,なにか,何か,Cái gì đó,question,❓,何か飲みたいです。,Tôi muốn uống cái gì đó.
+l13_022,13,どこか,,"Đâu đó, chỗ nào đó",question,📍,どこかへ行きたいです。,Tôi muốn đi đâu đó.
+l13_023,13,のどがかわきました,,Tôi khát.,conversation,🥤,のどがかわきました。,Tôi khát.
+l13_024,13,おなかがすきました,,Tôi đói rồi.,conversation,🍙,おなかがすきました。,Tôi đói rồi.
+l13_025,13,そうしましょう,,"Nhất trí, thống nhất như thế đi.",conversation,🤝,はい、そうしましょう。,"Vâng, thống nhất vậy đi."
+l13_026,13,ご注文は？,ご注文は？,Anh/chị dùng món gì ạ?,restaurant,🧾,ご注文は？,Anh/chị dùng món gì ạ?
+l13_027,13,定食,定食,"Cơm suất, cơm phần",restaurant,🍱,定食をお願いします。,Cho tôi cơm phần.
+l13_028,13,牛どん,牛どん,Món cơm thịt bò,restaurant,🍚,牛どんをお願いします。,Cho tôi cơm thịt bò.
+l13_029,13,[少々]お待ちください,[少々]お待ちください,Xin vui lòng đợi một chút.,restaurant,⏳,少々お待ちください。,Xin vui lòng đợi một chút.
+l13_030,13,～でございます,,Cách nói lịch sự của です,restaurant,🙇,こちらは牛どんでございます。,Đây là cơm thịt bò ạ.
+l13_031,13,べつべつに,別々に,"Riêng lẻ, tách biệt",restaurant,🧾,別々にお願いします。,Tính riêng giúp tôi.
+l13_032,13,アキックス,,Tên công ty giả tưởng,other,🏢,アキックスへ行きます。,Tôi đi đến Akikkusu.
+l13_033,13,おはようテレビ,,Tên chương trình TV giả tưởng,other,📺,おはようテレビを見ます。,Tôi xem Ohayou TV.

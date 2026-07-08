@@ -1214,3 +1214,370 @@ window.LESSONS = {
     }
   ]
 };
+
+
+window.LESSONS["13"] = [
+  {
+    "id": "l13_001",
+    "lesson": "13",
+    "hiragana": "あそびます",
+    "kanji": "遊びます",
+    "vietnamese": "Chơi",
+    "category": "verbs",
+    "icon": "🎮",
+    "example_jp": "休みに友達と遊びます。",
+    "example_vi": "Ngày nghỉ tôi chơi với bạn."
+  },
+  {
+    "id": "l13_002",
+    "lesson": "13",
+    "hiragana": "およぎます",
+    "kanji": "泳ぎます",
+    "vietnamese": "Bơi",
+    "category": "verbs",
+    "icon": "🏊",
+    "example_jp": "プールで泳ぎます。",
+    "example_vi": "Tôi bơi ở hồ bơi."
+  },
+  {
+    "id": "l13_003",
+    "lesson": "13",
+    "hiragana": "むかえます",
+    "kanji": "迎えます",
+    "vietnamese": "Đón, chào đón",
+    "category": "verbs",
+    "icon": "🚗",
+    "example_jp": "駅で友達を迎えます。",
+    "example_vi": "Tôi đón bạn ở nhà ga."
+  },
+  {
+    "id": "l13_004",
+    "lesson": "13",
+    "hiragana": "つかれます",
+    "kanji": "疲れます",
+    "vietnamese": "Mệt",
+    "category": "verbs",
+    "icon": "😮‍💨",
+    "example_jp": "今日は疲れました。",
+    "example_vi": "Hôm nay tôi mệt rồi."
+  },
+  {
+    "id": "l13_005",
+    "lesson": "13",
+    "hiragana": "けっこんします",
+    "kanji": "結婚します",
+    "vietnamese": "Kết hôn",
+    "category": "verbs",
+    "icon": "💍",
+    "example_jp": "来年結婚します。",
+    "example_vi": "Năm sau tôi kết hôn."
+  },
+  {
+    "id": "l13_006",
+    "lesson": "13",
+    "hiragana": "かいものします",
+    "kanji": "買い物します",
+    "vietnamese": "Mua hàng",
+    "category": "verbs",
+    "icon": "🛒",
+    "example_jp": "スーパーで買い物します。",
+    "example_vi": "Tôi mua hàng ở siêu thị."
+  },
+  {
+    "id": "l13_007",
+    "lesson": "13",
+    "hiragana": "しょくじします",
+    "kanji": "食事します",
+    "vietnamese": "Ăn cơm, dùng bữa",
+    "category": "verbs",
+    "icon": "🍽️",
+    "example_jp": "家族と食事します。",
+    "example_vi": "Tôi dùng bữa với gia đình."
+  },
+  {
+    "id": "l13_008",
+    "lesson": "13",
+    "hiragana": "さんぽします",
+    "kanji": "散歩します",
+    "vietnamese": "Đi dạo",
+    "category": "verbs",
+    "icon": "🚶",
+    "example_jp": "公園を散歩します。",
+    "example_vi": "Tôi đi dạo ở công viên."
+  },
+  {
+    "id": "l13_009",
+    "lesson": "13",
+    "hiragana": "たいへん[な]",
+    "kanji": "大変[な]",
+    "vietnamese": "Vất vả, khó khăn",
+    "category": "adjective",
+    "icon": "💦",
+    "example_jp": "仕事は大変です。",
+    "example_vi": "Công việc vất vả."
+  },
+  {
+    "id": "l13_010",
+    "lesson": "13",
+    "hiragana": "ほしい",
+    "kanji": "欲しい",
+    "vietnamese": "Muốn có",
+    "category": "adjective",
+    "icon": "🎁",
+    "example_jp": "新しい車が欲しいです。",
+    "example_vi": "Tôi muốn có xe mới."
+  },
+  {
+    "id": "l13_011",
+    "lesson": "13",
+    "hiragana": "ひろい",
+    "kanji": "広い",
+    "vietnamese": "Rộng",
+    "category": "adjective",
+    "icon": "🏞️",
+    "example_jp": "この部屋は広いです。",
+    "example_vi": "Phòng này rộng."
+  },
+  {
+    "id": "l13_012",
+    "lesson": "13",
+    "hiragana": "せまい",
+    "kanji": "狭い",
+    "vietnamese": "Chật, hẹp",
+    "category": "adjective",
+    "icon": "📦",
+    "example_jp": "この部屋は狭いです。",
+    "example_vi": "Phòng này chật."
+  },
+  {
+    "id": "l13_013",
+    "lesson": "13",
+    "hiragana": "プール",
+    "kanji": "",
+    "vietnamese": "Bể bơi",
+    "category": "places",
+    "icon": "🏊‍♂️",
+    "example_jp": "プールで泳ぎます。",
+    "example_vi": "Tôi bơi ở bể bơi."
+  },
+  {
+    "id": "l13_014",
+    "lesson": "13",
+    "hiragana": "かわ",
+    "kanji": "川",
+    "vietnamese": "Sông",
+    "category": "places",
+    "icon": "🏞️",
+    "example_jp": "川の近くを散歩します。",
+    "example_vi": "Tôi đi dạo gần sông."
+  },
+  {
+    "id": "l13_015",
+    "lesson": "13",
+    "hiragana": "びじゅつ",
+    "kanji": "美術",
+    "vietnamese": "Mỹ thuật",
+    "category": "activities",
+    "icon": "🎨",
+    "example_jp": "美術が好きです。",
+    "example_vi": "Tôi thích mỹ thuật."
+  },
+  {
+    "id": "l13_016",
+    "lesson": "13",
+    "hiragana": "つり",
+    "kanji": "釣り",
+    "vietnamese": "Câu cá",
+    "category": "activities",
+    "icon": "🎣",
+    "example_jp": "日曜日に釣りをします。",
+    "example_vi": "Chủ nhật tôi đi câu cá."
+  },
+  {
+    "id": "l13_017",
+    "lesson": "13",
+    "hiragana": "スキー",
+    "kanji": "",
+    "vietnamese": "Trượt tuyết",
+    "category": "activities",
+    "icon": "⛷️",
+    "example_jp": "冬にスキーをします。",
+    "example_vi": "Mùa đông tôi trượt tuyết."
+  },
+  {
+    "id": "l13_018",
+    "lesson": "13",
+    "hiragana": "しゅうまつ",
+    "kanji": "週末",
+    "vietnamese": "Cuối tuần",
+    "category": "time",
+    "icon": "📅",
+    "example_jp": "週末に買い物します。",
+    "example_vi": "Cuối tuần tôi đi mua hàng."
+  },
+  {
+    "id": "l13_019",
+    "lesson": "13",
+    "hiragana": "[お]しょうがつ",
+    "kanji": "[お]正月",
+    "vietnamese": "Năm mới, Tết",
+    "category": "time",
+    "icon": "🎍",
+    "example_jp": "お正月に家族と食事します。",
+    "example_vi": "Năm mới tôi ăn cơm với gia đình."
+  },
+  {
+    "id": "l13_020",
+    "lesson": "13",
+    "hiragana": "～ごろ",
+    "kanji": "",
+    "vietnamese": "Khoảng ~",
+    "category": "time",
+    "icon": "🕒",
+    "example_jp": "七時ごろ帰ります。",
+    "example_vi": "Khoảng 7 giờ tôi về."
+  },
+  {
+    "id": "l13_021",
+    "lesson": "13",
+    "hiragana": "なにか",
+    "kanji": "何か",
+    "vietnamese": "Cái gì đó",
+    "category": "question",
+    "icon": "❓",
+    "example_jp": "何か飲みたいです。",
+    "example_vi": "Tôi muốn uống cái gì đó."
+  },
+  {
+    "id": "l13_022",
+    "lesson": "13",
+    "hiragana": "どこか",
+    "kanji": "",
+    "vietnamese": "Đâu đó, chỗ nào đó",
+    "category": "question",
+    "icon": "📍",
+    "example_jp": "どこかへ行きたいです。",
+    "example_vi": "Tôi muốn đi đâu đó."
+  },
+  {
+    "id": "l13_023",
+    "lesson": "13",
+    "hiragana": "のどがかわきました",
+    "kanji": "",
+    "vietnamese": "Tôi khát.",
+    "category": "conversation",
+    "icon": "🥤",
+    "example_jp": "のどがかわきました。",
+    "example_vi": "Tôi khát."
+  },
+  {
+    "id": "l13_024",
+    "lesson": "13",
+    "hiragana": "おなかがすきました",
+    "kanji": "",
+    "vietnamese": "Tôi đói rồi.",
+    "category": "conversation",
+    "icon": "🍙",
+    "example_jp": "おなかがすきました。",
+    "example_vi": "Tôi đói rồi."
+  },
+  {
+    "id": "l13_025",
+    "lesson": "13",
+    "hiragana": "そうしましょう",
+    "kanji": "",
+    "vietnamese": "Nhất trí, thống nhất như thế đi.",
+    "category": "conversation",
+    "icon": "🤝",
+    "example_jp": "はい、そうしましょう。",
+    "example_vi": "Vâng, thống nhất vậy đi."
+  },
+  {
+    "id": "l13_026",
+    "lesson": "13",
+    "hiragana": "ご注文は？",
+    "kanji": "ご注文は？",
+    "vietnamese": "Anh/chị dùng món gì ạ?",
+    "category": "restaurant",
+    "icon": "🧾",
+    "example_jp": "ご注文は？",
+    "example_vi": "Anh/chị dùng món gì ạ?"
+  },
+  {
+    "id": "l13_027",
+    "lesson": "13",
+    "hiragana": "定食",
+    "kanji": "定食",
+    "vietnamese": "Cơm suất, cơm phần",
+    "category": "restaurant",
+    "icon": "🍱",
+    "example_jp": "定食をお願いします。",
+    "example_vi": "Cho tôi cơm phần."
+  },
+  {
+    "id": "l13_028",
+    "lesson": "13",
+    "hiragana": "牛どん",
+    "kanji": "牛どん",
+    "vietnamese": "Món cơm thịt bò",
+    "category": "restaurant",
+    "icon": "🍚",
+    "example_jp": "牛どんをお願いします。",
+    "example_vi": "Cho tôi cơm thịt bò."
+  },
+  {
+    "id": "l13_029",
+    "lesson": "13",
+    "hiragana": "[少々]お待ちください",
+    "kanji": "[少々]お待ちください",
+    "vietnamese": "Xin vui lòng đợi một chút.",
+    "category": "restaurant",
+    "icon": "⏳",
+    "example_jp": "少々お待ちください。",
+    "example_vi": "Xin vui lòng đợi một chút."
+  },
+  {
+    "id": "l13_030",
+    "lesson": "13",
+    "hiragana": "～でございます",
+    "kanji": "",
+    "vietnamese": "Cách nói lịch sự của です",
+    "category": "restaurant",
+    "icon": "🙇",
+    "example_jp": "こちらは牛どんでございます。",
+    "example_vi": "Đây là cơm thịt bò ạ."
+  },
+  {
+    "id": "l13_031",
+    "lesson": "13",
+    "hiragana": "べつべつに",
+    "kanji": "別々に",
+    "vietnamese": "Riêng lẻ, tách biệt",
+    "category": "restaurant",
+    "icon": "🧾",
+    "example_jp": "別々にお願いします。",
+    "example_vi": "Tính riêng giúp tôi."
+  },
+  {
+    "id": "l13_032",
+    "lesson": "13",
+    "hiragana": "アキックス",
+    "kanji": "",
+    "vietnamese": "Tên công ty giả tưởng",
+    "category": "other",
+    "icon": "🏢",
+    "example_jp": "アキックスへ行きます。",
+    "example_vi": "Tôi đi đến Akikkusu."
+  },
+  {
+    "id": "l13_033",
+    "lesson": "13",
+    "hiragana": "おはようテレビ",
+    "kanji": "",
+    "vietnamese": "Tên chương trình TV giả tưởng",
+    "category": "other",
+    "icon": "📺",
+    "example_jp": "おはようテレビを見ます。",
+    "example_vi": "Tôi xem Ohayou TV."
+  }
+];

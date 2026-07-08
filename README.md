@@ -1,8 +1,12 @@
-# Japanese Learning Kit v0.1.0
+# Japanese Learning Kit v0.1.1
 
-- Lesson 10 refactor
-- Lesson 11 improved
-- Kanji luôn kèm Hiragana
-- Audio bằng Japanese speech engine, tốc độ vừa phải
+Includes Lesson 10, Lesson 11, and Lesson 13.
 
-Mở `index.html` để học.
+## Update
+- Added Lesson 13 from uploaded vocabulary PDF.
+- Default lesson is Lesson 13.
+- Kanji is shown with Hiragana together: Kanji（Hiragana）.
+- Browser robotic audio is disabled for now. MP3 audio can be added later via `audio_url`.
+
+## Use
+Open `index.html` in Safari/Chrome or publish with GitHub Pages.
