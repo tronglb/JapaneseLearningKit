@@ -1,3 +1,5 @@
-# Japanese Learning Kit v0.1.2 SAFE
-
-Single-file safe build. Open index.html. No browser voice. Lessons: 10, 11, 13.
+Japanese Learning Kit v0.1.3
+- Lesson 10/11/13
+- External Japanese MP3 audio URLs
+- Kanji with Hiragana in words and example sentences
+- Improved symbolic pictograms

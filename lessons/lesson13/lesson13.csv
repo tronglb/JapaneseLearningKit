@@ -1,34 +1,34 @@
-id,lesson,hiragana,kanji,vietnamese,category,icon,example_jp,example_vi
-l13_001,13,あそびます,遊びます,Chơi,verbs,🎮,休みに友達と遊びます。,Ngày nghỉ tôi chơi với bạn.
-l13_002,13,およぎます,泳ぎます,Bơi,verbs,🏊,プールで泳ぎます。,Tôi bơi ở hồ bơi.
-l13_003,13,むかえます,迎えます,"Đón, chào đón",verbs,🚗,駅で友達を迎えます。,Tôi đón bạn ở nhà ga.
-l13_004,13,つかれます,疲れます,Mệt,verbs,😮‍💨,今日は疲れました。,Hôm nay tôi mệt rồi.
-l13_005,13,けっこんします,結婚します,Kết hôn,verbs,💍,来年結婚します。,Năm sau tôi kết hôn.
-l13_006,13,かいものします,買い物します,Mua hàng,verbs,🛒,スーパーで買い物します。,Tôi mua hàng ở siêu thị.
-l13_007,13,しょくじします,食事します,"Ăn cơm, dùng bữa",verbs,🍽️,家族と食事します。,Tôi dùng bữa với gia đình.
-l13_008,13,さんぽします,散歩します,Đi dạo,verbs,🚶,公園を散歩します。,Tôi đi dạo ở công viên.
-l13_009,13,たいへん[な],大変[な],"Vất vả, khó khăn",adjective,💦,仕事は大変です。,Công việc vất vả.
-l13_010,13,ほしい,欲しい,Muốn có,adjective,🎁,新しい車が欲しいです。,Tôi muốn có xe mới.
-l13_011,13,ひろい,広い,Rộng,adjective,🏞️,この部屋は広いです。,Phòng này rộng.
-l13_012,13,せまい,狭い,"Chật, hẹp",adjective,📦,この部屋は狭いです。,Phòng này chật.
-l13_013,13,プール,,Bể bơi,places,🏊‍♂️,プールで泳ぎます。,Tôi bơi ở bể bơi.
-l13_014,13,かわ,川,Sông,places,🏞️,川の近くを散歩します。,Tôi đi dạo gần sông.
-l13_015,13,びじゅつ,美術,Mỹ thuật,activities,🎨,美術が好きです。,Tôi thích mỹ thuật.
-l13_016,13,つり,釣り,Câu cá,activities,🎣,日曜日に釣りをします。,Chủ nhật tôi đi câu cá.
-l13_017,13,スキー,,Trượt tuyết,activities,⛷️,冬にスキーをします。,Mùa đông tôi trượt tuyết.
-l13_018,13,しゅうまつ,週末,Cuối tuần,time,📅,週末に買い物します。,Cuối tuần tôi đi mua hàng.
-l13_019,13,[お]しょうがつ,[お]正月,"Năm mới, Tết",time,🎍,お正月に家族と食事します。,Năm mới tôi ăn cơm với gia đình.
-l13_020,13,～ごろ,,Khoảng ~,time,🕒,七時ごろ帰ります。,Khoảng 7 giờ tôi về.
-l13_021,13,なにか,何か,Cái gì đó,question,❓,何か飲みたいです。,Tôi muốn uống cái gì đó.
-l13_022,13,どこか,,"Đâu đó, chỗ nào đó",question,📍,どこかへ行きたいです。,Tôi muốn đi đâu đó.
-l13_023,13,のどがかわきました,,Tôi khát.,conversation,🥤,のどがかわきました。,Tôi khát.
-l13_024,13,おなかがすきました,,Tôi đói rồi.,conversation,🍙,おなかがすきました。,Tôi đói rồi.
-l13_025,13,そうしましょう,,"Nhất trí, thống nhất như thế đi.",conversation,🤝,はい、そうしましょう。,"Vâng, thống nhất vậy đi."
-l13_026,13,ご注文は？,ご注文は？,Anh/chị dùng món gì ạ?,restaurant,🧾,ご注文は？,Anh/chị dùng món gì ạ?
-l13_027,13,定食,定食,"Cơm suất, cơm phần",restaurant,🍱,定食をお願いします。,Cho tôi cơm phần.
-l13_028,13,牛どん,牛どん,Món cơm thịt bò,restaurant,🍚,牛どんをお願いします。,Cho tôi cơm thịt bò.
-l13_029,13,[少々]お待ちください,[少々]お待ちください,Xin vui lòng đợi một chút.,restaurant,⏳,少々お待ちください。,Xin vui lòng đợi một chút.
-l13_030,13,～でございます,,Cách nói lịch sự của です,restaurant,🙇,こちらは牛どんでございます。,Đây là cơm thịt bò ạ.
-l13_031,13,べつべつに,別々に,"Riêng lẻ, tách biệt",restaurant,🧾,別々にお願いします。,Tính riêng giúp tôi.
-l13_032,13,アキックス,,Tên công ty giả tưởng,other,🏢,アキックスへ行きます。,Tôi đi đến Akikkusu.
-l13_033,13,おはようテレビ,,Tên chương trình TV giả tưởng,other,📺,おはようテレビを見ます。,Tôi xem Ohayou TV.
+id,lesson,hiragana,kanji,vietnamese,category,icon,example_jp,example_vi,audio_url,example_jp_reading,display
+l13_001,13,あそびます,遊びます,Chơi,verbs,🎮,休みに友達と遊びます。,Ngày nghỉ tôi chơi với bạn.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=遊びます&kana=あそびます,休み（やすみ）に友達（ともだち）と遊びます（あそびます）。,遊びます（あそびます）
+l13_002,13,およぎます,泳ぎます,Bơi,verbs,🏊,プールで泳ぎます。,Tôi bơi ở hồ bơi.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=泳ぎます&kana=およぎます,プールで泳ぎます（およぎます）。,泳ぎます（およぎます）
+l13_003,13,むかえます,迎えます,"Đón, chào đón",verbs,🚗,駅で友達を迎えます。,Tôi đón bạn ở nhà ga.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=迎えます&kana=むかえます,駅（えき）で友達（ともだち）を迎えます（むかえます）。,迎えます（むかえます）
+l13_004,13,つかれます,疲れます,Mệt,verbs,😮‍💨,今日は疲れました。,Hôm nay tôi mệt rồi.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=疲れます&kana=つかれます,今日（きょう）は疲れました。,疲れます（つかれます）
+l13_005,13,けっこんします,結婚します,Kết hôn,verbs,💍,来年結婚します。,Năm sau tôi kết hôn.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=結婚します&kana=けっこんします,来年（らいねん）結婚します（けっこんします）。,結婚します（けっこんします）
+l13_006,13,かいものします,買い物します,Mua hàng,verbs,🛒,スーパーで買い物します。,Tôi mua hàng ở siêu thị.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=買い物します&kana=かいものします,スーパーで買い物（もの）します（かいものします）。,買い物します（かいものします）
+l13_007,13,しょくじします,食事します,"Ăn cơm, dùng bữa",verbs,🍽️,家族と食事します。,Tôi dùng bữa với gia đình.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=食事します&kana=しょくじします,家族（かぞく）と食事します（しょくじします）。,食事します（しょくじします）
+l13_008,13,さんぽします,散歩します,Đi dạo,verbs,🚶,公園を散歩します。,Tôi đi dạo ở công viên.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=散歩します&kana=さんぽします,公園（こうえん）を散歩します（さんぽします）。,散歩します（さんぽします）
+l13_009,13,たいへん[な],大変[な],"Vất vả, khó khăn",adjective,💦,仕事は大変です。,Công việc vất vả.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=大変な&kana=たいへんな,仕事（しごと）は大変です。,大変[な]（たいへん[な]）
+l13_010,13,ほしい,欲しい,Muốn có,adjective,🎁,新しい車が欲しいです。,Tôi muốn có xe mới.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=欲しい&kana=ほしい,新しい（あたらしい）車（くるま）が欲しい（ほしい）です。,欲しい（ほしい）
+l13_011,13,ひろい,広い,Rộng,adjective,🏞️,この部屋は広いです。,Phòng này rộng.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=広い&kana=ひろい,この部屋（へや）は広い（ひろい）です。,広い（ひろい）
+l13_012,13,せまい,狭い,"Chật, hẹp",adjective,📦,この部屋は狭いです。,Phòng này chật.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=狭い&kana=せまい,この部屋（へや）は狭い（せまい）です。,狭い（せまい）
+l13_013,13,プール,,Bể bơi,places,🏊‍♂️,プールで泳ぎます。,Tôi bơi ở bể bơi.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=プール&kana=プール,プールで泳ぎます（およぎます）。,プール
+l13_014,13,かわ,川,Sông,places,🏞️,川の近くを散歩します。,Tôi đi dạo gần sông.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=川&kana=かわ,川（かわ）の近く（ちかく）を散歩します（さんぽします）。,川（かわ）
+l13_015,13,びじゅつ,美術,Mỹ thuật,activities,🎨,美術が好きです。,Tôi thích mỹ thuật.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=美術&kana=びじゅつ,美術（びじゅつ）が好きです。,美術（びじゅつ）
+l13_016,13,つり,釣り,Câu cá,activities,🎣,日曜日に釣りをします。,Chủ nhật tôi đi câu cá.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=釣り&kana=つり,日曜日（にちようび）に釣り（つり）をします。,釣り（つり）
+l13_017,13,スキー,,Trượt tuyết,activities,⛷️,冬にスキーをします。,Mùa đông tôi trượt tuyết.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=スキー&kana=スキー,冬（ふゆ）にスキーをします。,スキー
+l13_018,13,しゅうまつ,週末,Cuối tuần,time,📅,週末に買い物します。,Cuối tuần tôi đi mua hàng.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=週末&kana=しゅうまつ,週末（しゅうまつ）に買い物（もの）します（かいものします）。,週末（しゅうまつ）
+l13_019,13,[お]しょうがつ,[お]正月,"Năm mới, Tết",time,🎍,お正月に家族と食事します。,Năm mới tôi ăn cơm với gia đình.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=お正月&kana=おしょうがつ,お正月に家族（かぞく）と食事します（しょくじします）。,[お]正月（[お]しょうがつ）
+l13_020,13,～ごろ,,Khoảng ~,time,🕒,七時ごろ帰ります。,Khoảng 7 giờ tôi về.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=ごろ&kana=ごろ,七時（しちじ）ごろ帰ります（かえります）。,～ごろ
+l13_021,13,なにか,何か,Cái gì đó,question,❓,何か飲みたいです。,Tôi muốn uống cái gì đó.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=何か&kana=なにか,何か（なにか）飲みたい（のみたい）です。,何か（なにか）
+l13_022,13,どこか,,"Đâu đó, chỗ nào đó",question,📍,どこかへ行きたいです。,Tôi muốn đi đâu đó.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=どこか&kana=どこか,どこかへ行きたい（いきたい）です。,どこか
+l13_023,13,のどがかわきました,,Tôi khát.,conversation,🥤,のどがかわきました。,Tôi khát.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=のどがかわきました&kana=のどがかわきました,のどがかわきました。,のどがかわきました
+l13_024,13,おなかがすきました,,Tôi đói rồi.,conversation,🍙,おなかがすきました。,Tôi đói rồi.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=おなかがすきました&kana=おなかがすきました,おなかがすきました。,おなかがすきました
+l13_025,13,そうしましょう,,"Nhất trí, thống nhất như thế đi.",conversation,🤝,はい、そうしましょう。,"Vâng, thống nhất vậy đi.",https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=そうしましょう&kana=そうしましょう,はい、そうしましょう。,そうしましょう
+l13_026,13,ご注文は？,ご注文は？,Anh/chị dùng món gì ạ?,restaurant,🧾,ご注文は？,Anh/chị dùng món gì ạ?,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=ご注文は&kana=ご注文は,ご注文（ちゅうもん）は？,ご注文は？
+l13_027,13,定食,定食,"Cơm suất, cơm phần",restaurant,🍱,定食をお願いします。,Cho tôi cơm phần.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=定食&kana=定食,定食をお願いします（おねがいします）。,定食
+l13_028,13,牛どん,牛どん,Món cơm thịt bò,restaurant,🍚,牛どんをお願いします。,Cho tôi cơm thịt bò.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=牛どん&kana=牛どん,牛（ぎゅう）どんをお願いします（おねがいします）。,牛どん
+l13_029,13,[少々]お待ちください,[少々]お待ちください,Xin vui lòng đợi một chút.,restaurant,⏳,少々お待ちください。,Xin vui lòng đợi một chút.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=少々お待ちください&kana=少々お待ちください,少々（しょうしょう）お待ち（まち）ください。,[少々]お待ちください
+l13_030,13,～でございます,,Cách nói lịch sự của です,restaurant,🙇,こちらは牛どんでございます。,Đây là cơm thịt bò ạ.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=でございます&kana=でございます,こちらは牛（ぎゅう）どんでございます。,～でございます
+l13_031,13,べつべつに,別々に,"Riêng lẻ, tách biệt",restaurant,🧾,別々にお願いします。,Tính riêng giúp tôi.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=別々に&kana=べつべつに,別々（べつべつ）に（べつべつに）お願いします（おねがいします）。,別々に（べつべつに）
+l13_032,13,アキックス,,Tên công ty giả tưởng,other,🏢,アキックスへ行きます。,Tôi đi đến Akikkusu.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=アキックス&kana=アキックス,アキックスへ行きます。,アキックス
+l13_033,13,おはようテレビ,,Tên chương trình TV giả tưởng,other,📺,おはようテレビを見ます。,Tôi xem Ohayou TV.,https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=おはようテレビ&kana=おはようテレビ,おはようテレビを見ます。,おはようテレビ
