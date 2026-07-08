@@ -1,12 +1,3 @@
-# Japanese Learning Kit v0.1.1
+# Japanese Learning Kit v0.1.2 SAFE
 
-Includes Lesson 10, Lesson 11, and Lesson 13.
-
-## Update
-- Added Lesson 13 from uploaded vocabulary PDF.
-- Default lesson is Lesson 13.
-- Kanji is shown with Hiragana together: Kanji（Hiragana）.
-- Browser robotic audio is disabled for now. MP3 audio can be added later via `audio_url`.
-
-## Use
-Open `index.html` in Safari/Chrome or publish with GitHub Pages.
+Single-file safe build. Open index.html. No browser voice. Lessons: 10, 11, 13.
